@@ -1,7 +1,7 @@
 [
   {
     "name": "农历接口",
-    "url": "${{ secrets.APIURL_MYNEXTJS_LUNAR }}",
+    "url": "$secrets.APIURL_MYNEXTJS_LUNAR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "down",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-02": 7
+      "2024-04-02": 10
     }
   }
 ]
