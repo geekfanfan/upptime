@@ -1,20 +1,20 @@
 [
   {
     "name": "农历接口",
-    "url": "https://node-api.geekfanfan.com/api/lunar",
-    "icon": "https://icons.duckduckgo.com/ip3/node-api.geekfanfan.com.ico",
+    "url": "$APIURL_MYNEXTJS_LUNAR",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "32.25%",
-    "uptimeDay": "32.25%",
-    "uptimeWeek": "32.25%",
-    "uptimeMonth": "32.25%",
-    "uptimeYear": "32.25%",
-    "time": 1430,
-    "timeDay": 1430,
-    "timeWeek": 1430,
-    "timeMonth": 1430,
-    "timeYear": 1430,
+    "uptime": "40.56%",
+    "uptimeDay": "40.56%",
+    "uptimeWeek": "40.56%",
+    "uptimeMonth": "40.56%",
+    "uptimeYear": "40.56%",
+    "time": 963,
+    "timeDay": 963,
+    "timeWeek": 963,
+    "timeMonth": 963,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2024-04-02": 10
     }
