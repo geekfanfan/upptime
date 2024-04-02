@@ -1,0 +1,7 @@
+url: ${{ secrets.APIURL_MYNEXTJS_LUNAR }}
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-04-02T09:16:53.054Z
+startTime: 2024-04-02T09:16:53.048Z
+generator: Upptime <https://github.com/upptime/upptime>
