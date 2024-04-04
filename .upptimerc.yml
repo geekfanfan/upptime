@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
    - name: 农历接口
      url: $APIURL_MYNEXTJS_LUNAR
+     method: GET
    - name: Google
      url: https://www.google.com
   #- name: Wikipedia
