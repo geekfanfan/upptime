@@ -1,23 +1,21 @@
 [
   {
-    "name": "农历接口",
+    "name": "nextjs-lunar",
     "url": "$APIURL_MYNEXTJS_LUNAR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "",
+    "slug": "nextjs-lunar",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 669,
-    "timeDay": 630,
-    "timeWeek": 669,
-    "timeMonth": 669,
-    "timeYear": 669,
-    "dailyMinutesDown": {
-      "2024-04-02": 10
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 949,
+    "timeDay": 949,
+    "timeWeek": 949,
+    "timeMonth": 949,
+    "timeYear": 949,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 74,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "time": 113,
+    "timeDay": 73,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   }
 ]
