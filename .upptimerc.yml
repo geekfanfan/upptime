@@ -3,8 +3,11 @@ owner: geekfanfan # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository 
 
 sites:
-   - name: nextjs-lunar
+   - name: Nextjs-Lunar
      url: $APIURL_MYNEXTJS_LUNAR
+     method: GET
+   - name: Typecho-Blog
+     url: $SITE_MY_TYPECHO_BLOG_BY_SERV00_COM
      method: GET
    - name: Google
      url: https://www.google.com
