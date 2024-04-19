@@ -1,6 +1,6 @@
 [
   {
-    "name": "nextjs-lunar",
+    "name": "Nextjs-Lunar",
     "url": "$APIURL_MYNEXTJS_LUNAR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextjs-lunar",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 358,
-    "timeWeek": 672,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "time": 670,
+    "timeDay": 710,
+    "timeWeek": 712,
+    "timeMonth": 670,
+    "timeYear": 670,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Typecho-Blog",
+    "url": "$SITE_MY_TYPECHO_BLOG_BY_SERV00_COM",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "typecho-blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 899,
+    "timeDay": 899,
+    "timeWeek": 899,
+    "timeMonth": 899,
+    "timeYear": 899,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 74,
-    "timeWeek": 139,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "time": 113,
+    "timeDay": 96,
+    "timeWeek": 156,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   }
 ]
