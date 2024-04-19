@@ -1,7 +1,7 @@
 [
   {
     "name": "Nextjs-Lunar",
-    "url": "$APIURL_MYNEXTJS_LUNAR",
+    "url": "$APIURL_MY_NEXTJS_LUNAR_BY_VERCEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextjs-lunar",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 710,
-    "timeWeek": 712,
-    "timeMonth": 670,
-    "timeYear": 670,
+    "time": 685,
+    "timeDay": 807,
+    "timeWeek": 744,
+    "timeMonth": 685,
+    "timeYear": 685,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 899,
-    "timeDay": 899,
-    "timeWeek": 899,
-    "timeMonth": 899,
-    "timeYear": 899,
+    "time": 893,
+    "timeDay": 893,
+    "timeWeek": 893,
+    "timeMonth": 893,
+    "timeYear": 893,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 96,
-    "timeWeek": 156,
+    "timeDay": 103,
+    "timeWeek": 152,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {}
