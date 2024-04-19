@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
    - name: Nextjs-Lunar
-     url: $APIURL_MYNEXTJS_LUNAR
+     url: $APIURL_MY_NEXTJS_LUNAR_BY_VERCEL
      method: GET
    - name: Typecho-Blog
      url: $SITE_MY_TYPECHO_BLOG_BY_SERV00_COM
