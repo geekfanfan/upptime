@@ -4,7 +4,7 @@
     "url": "$APIURL_MY_NEXTJS_LUNAR_BY_VERCEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextjs-lunar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1072,
     "timeMonth": 657,
     "timeYear": 668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-02": 0
+    }
   },
   {
     "name": "Typecho-Blog",
