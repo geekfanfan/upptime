@@ -4,19 +4,19 @@
     "url": "$APIURL_MY_NEXTJS_LUNAR_BY_VERCEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextjs-lunar",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 257,
-    "timeWeek": 479,
-    "timeMonth": 672,
-    "timeYear": 629,
+    "time": 625,
+    "timeDay": 250,
+    "timeWeek": 449,
+    "timeMonth": 659,
+    "timeYear": 625,
     "dailyMinutesDown": {
-      "2024-06-29": 0
+      "2024-06-29": 5
     }
   },
   {
