@@ -1,7 +1,7 @@
 url: $SITE_MY_TYPECHO_BLOG_BY_SERV00_COM
-status: up
-code: 200
-responseTime: 1060
-lastUpdated: 2024-08-06T23:00:39.634Z
+status: down
+code: 523
+responseTime: 2519
+lastUpdated: 2024-08-07T16:45:09.549Z
 startTime: 2024-04-19T09:20:02.727Z
 generator: Upptime <https://github.com/upptime/upptime>
