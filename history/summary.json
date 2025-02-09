@@ -24,7 +24,7 @@
     "url": "$SITE_MY_TYPECHO_BLOG_BY_SERV00_COM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "typecho-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 927,
     "timeYear": 1187,
     "dailyMinutesDown": {
+      "2025-02-09": 0,
       "2024-12-25": 102,
       "2024-11-19": 19,
       "2024-08-21": 16,
